@@ -34,6 +34,16 @@ Puedes probar la demo jugable [aquí](https://mario-espinosa.itch.io/sombra-del-
 
 🔐 **Contraseña para acceder a la demo:**  `SombraDelGloton`
 
+## ⌨️ Controles
+| Acción            | Tecla / Botón        |
+|-------------------|----------------------|
+| Moverse           | WASD / Flechas       |
+| Saltar            | Espacio              |
+| Atacar            | Click izquierdo      |
+| Dash / Esquivar   | Z                    |
+| Interactuar       | E                    |
+| Pausar / Menú     | Escape               |
+
 ## ⚔️ Integrantes del proyecto
 - 👤 Haoen Zhang - [Haoen219](https://github.com/Haoen219)
 - 👤 Jaume Bañuls - [JaumeDaw](https://github.com/JaumeDaw)
@@ -90,6 +100,16 @@ No está permitido su uso comercial ni la distribución sin permiso explícito d
 You can try the playable demo [here](https://mario-espinosa.itch.io/sombra-del-gloton)
 
 🔐 Password to access the demo: SombraDelGloton
+
+## ⌨️ Controls
+| Action            | Key / Button         |
+|-------------------|----------------------|
+| Move              | WASD / Arrow Keys    |
+| Jump              | Space                |
+| Attack            | Left Click           |
+| Dash / Dodge      | Z                    |
+| Interact          | E                    |
+| Pause / Menu      | Escape               |
 
 ## ⚔️ Project Contributors
 - 👤 Haoen Zhang - [Haoen219](https://github.com/Haoen219)

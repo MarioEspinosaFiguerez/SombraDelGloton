@@ -7,7 +7,6 @@
 
 
 📧 Contacto / Contact: [marioespinosafiguerez@gmail.com](mailto:marioespinosafiguerez@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mario-espinosa-figuerez/)
-<br>
 
 ---
 
@@ -81,7 +80,7 @@ No está permitido su uso comercial ni la distribución sin permiso explícito d
 
 # <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="EN" width="20" height="15"> About
 
-📌 Shadow of the Glutton is a video game collaboratively developed by the entire class as part of the 3D section of the Specialization Course in Video Game Development and Virtual Reality.
+📌 **Shadow of the Glutton** is a video game collaboratively developed by the entire class as part of the 3D section of the **Postgraduate Specialization in Video Games and Virtual Reality**
 
 ⚠️ **Note:** The game is currently available only in Spanish.
 

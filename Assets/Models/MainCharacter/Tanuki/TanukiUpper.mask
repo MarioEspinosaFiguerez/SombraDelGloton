@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TanukiUpper
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Espina.001
+    m_Weight: 1
+  - m_Path: Espina.001/Chest
+    m_Weight: 1
+  - m_Path: Espina.001/Chest/Chest_end
+    m_Weight: 1
+  - m_Path: Espina.001/Cola_Base
+    m_Weight: 0
+  - m_Path: Espina.001/Cola_Base/Cola_1
+    m_Weight: 1
+  - m_Path: Espina.001/Cola_Base/Cola_1/Cola_2
+    m_Weight: 1
+  - m_Path: Espina.001/Cola_Base/Cola_1/Cola_2/Cola_3
+    m_Weight: 1
+  - m_Path: Espina.001/Cola_Base/Cola_1/Cola_2/Cola_3/Cola_4
+    m_Weight: 1
+  - m_Path: Espina.001/Cola_Base/Cola_1/Cola_2/Cola_3/Cola_4/Cola_4_end
+    m_Weight: 1
+  - m_Path: Espina.001/Cola_IK
+    m_Weight: 0
+  - m_Path: Espina.001/Cola_IK/Cola_IK_end
+    m_Weight: 1
+  - m_Path: Espina.001/Cola_Pole_IK
+    m_Weight: 0
+  - m_Path: Espina.001/Cola_Pole_IK/Cola_Pole_IK_end
+    m_Weight: 1
+  - m_Path: Espina.001/Gyat
+    m_Weight: 0
+  - m_Path: Espina.001/Gyat/Gyat_end
+    m_Weight: 1
+  - m_Path: Espina.001/Hip
+    m_Weight: 1
+  - m_Path: Espina.001/Hip/Spine_1
+    m_Weight: 1
+  - m_Path: Espina.001/Hip/Spine_1/Spine_2
+    m_Weight: 1
+  - m_Path: Espina.001/Hip/Spine_1/Spine_2/Neck
+    m_Weight: 1
+  - m_Path: Espina.001/Hip/Spine_1/Spine_2/Neck/Head
+    m_Weight: 1
+  - m_Path: Espina.001/Hip/Spine_1/Spine_2/Neck/Head/Head_end
+    m_Weight: 1
+  - m_Path: Espina.001/L_Ear_Base
+    m_Weight: 1
+  - m_Path: Espina.001/L_Ear_Base/L_Ear_1
+    m_Weight: 1
+  - m_Path: Espina.001/L_Ear_Base/L_Ear_1/L_Ear_1_end
+    m_Weight: 1
+  - m_Path: Espina.001/L_Ear_IK
+    m_Weight: 1
+  - m_Path: Espina.001/L_Ear_IK/L_Ear_IK_end
+    m_Weight: 1
+  - m_Path: Espina.001/L_Foot_IK
+    m_Weight: 0
+  - m_Path: Espina.001/L_Foot_IK/L_Foot
+    m_Weight: 1
+  - m_Path: Espina.001/L_Foot_IK/L_Foot/L_Toe
+    m_Weight: 1
+  - m_Path: Espina.001/L_Foot_IK/L_Foot/L_Toe/L_Toe_end
+    m_Weight: 1
+  - m_Path: Espina.001/L_Forearm_IK
+    m_Weight: 1
+  - m_Path: Espina.001/L_Forearm_IK/L_Forearm_IK_end
+    m_Weight: 1
+  - m_Path: Espina.001/L_Index_Base
+    m_Weight: 1
+  - m_Path: Espina.001/L_Index_Base/L_Index_1
+    m_Weight: 1
+  - m_Path: Espina.001/L_Index_Base/L_Index_1/L_Index_1_end
+    m_Weight: 1
+  - m_Path: Espina.001/L_Knee_IK
+    m_Weight: 0
+  - m_Path: Espina.001/L_Knee_IK/L_Knee_IK_end
+    m_Weight: 1
+  - m_Path: Espina.001/L_Shoulder
+    m_Weight: 1
+  - m_Path: Espina.001/L_Shoulder/L_Forearm
+    m_Weight: 1
+  - m_Path: Espina.001/L_Shoulder/L_Forearm/L_Hand
+    m_Weight: 1
+  - m_Path: Espina.001/L_Shoulder/L_Forearm/L_Hand/L_Fingers
+    m_Weight: 1
+  - m_Path: Espina.001/L_Shoulder/L_Forearm/L_Hand/L_Fingers/L_Fingers_end
+    m_Weight: 1
+  - m_Path: Espina.001/L_Shoulder/L_Forearm/L_Thumb_base
+    m_Weight: 1
+  - m_Path: Espina.001/L_Shoulder/L_Forearm/L_Thumb_base/L_Thumb_1
+    m_Weight: 1
+  - m_Path: Espina.001/L_Shoulder/L_Forearm/L_Thumb_base/L_Thumb_1/L_Thumb_1_end
+    m_Weight: 1
+  - m_Path: Espina.001/L_Shoulder_IK
+    m_Weight: 1
+  - m_Path: Espina.001/L_Shoulder_IK/L_Shoulder_IK_end
+    m_Weight: 1
+  - m_Path: Espina.001/L_Shoulder_Rotation_IK
+    m_Weight: 1
+  - m_Path: Espina.001/L_Shoulder_Rotation_IK/L_Shoulder_Rotation_IK_end
+    m_Weight: 1
+  - m_Path: Espina.001/L_Thig
+    m_Weight: 0
+  - m_Path: Espina.001/L_Thig/L_Leg
+    m_Weight: 1
+  - m_Path: Espina.001/L_Thig/L_Leg/L_Leg_end
+    m_Weight: 1
+  - m_Path: Espina.001/L_Thig_IK
+    m_Weight: 0
+  - m_Path: Espina.001/L_Thig_IK/L_Thig_IK_end
+    m_Weight: 1
+  - m_Path: Espina.001/Mandibula
+    m_Weight: 1
+  - m_Path: Espina.001/Mandibula/Mandibula_end
+    m_Weight: 1
+  - m_Path: Espina.001/Mechon_1
+    m_Weight: 1
+  - m_Path: Espina.001/Mechon_1/Mechon_1_end
+    m_Weight: 1
+  - m_Path: Espina.001/Mechon_2
+    m_Weight: 1
+  - m_Path: Espina.001/Mechon_2/Mechon_2_end
+    m_Weight: 1
+  - m_Path: Espina.001/Panuelo_Alita_1
+    m_Weight: 1
+  - m_Path: Espina.001/Panuelo_Alita_1/Panuelo_Alita_1_end
+    m_Weight: 1
+  - m_Path: Espina.001/Panuelo_Alita_2
+    m_Weight: 1
+  - m_Path: Espina.001/Panuelo_Alita_2/Panuelo_Alita_2_end
+    m_Weight: 1
+  - m_Path: Espina.001/Panuelo_Base
+    m_Weight: 1
+  - m_Path: Espina.001/Panuelo_Base/Panuelo_1
+    m_Weight: 1
+  - m_Path: Espina.001/Panuelo_Base/Panuelo_1/Panuelo_2
+    m_Weight: 1
+  - m_Path: Espina.001/Panuelo_Base/Panuelo_1/Panuelo_2/Panuelo_2_end
+    m_Weight: 1
+  - m_Path: Espina.001/R_Ear_Base
+    m_Weight: 1
+  - m_Path: Espina.001/R_Ear_Base/R_Ear_1
+    m_Weight: 1
+  - m_Path: Espina.001/R_Ear_Base/R_Ear_1/R_Ear_1_end
+    m_Weight: 1
+  - m_Path: Espina.001/R_Ear_IK
+    m_Weight: 1
+  - m_Path: Espina.001/R_Ear_IK/R_Ear_IK_end
+    m_Weight: 1
+  - m_Path: Espina.001/R_Foot_IK
+    m_Weight: 0
+  - m_Path: Espina.001/R_Foot_IK/R_Foot
+    m_Weight: 1
+  - m_Path: Espina.001/R_Foot_IK/R_Foot/R_Toe
+    m_Weight: 1
+  - m_Path: Espina.001/R_Foot_IK/R_Foot/R_Toe/R_Toe_end
+    m_Weight: 1
+  - m_Path: Espina.001/R_Forearm_IK
+    m_Weight: 1
+  - m_Path: Espina.001/R_Forearm_IK/R_Forearm_IK_end
+    m_Weight: 1
+  - m_Path: Espina.001/R_Index_Base
+    m_Weight: 1
+  - m_Path: Espina.001/R_Index_Base/R_Index_1
+    m_Weight: 1
+  - m_Path: Espina.001/R_Index_Base/R_Index_1/R_Index_1_end
+    m_Weight: 1
+  - m_Path: Espina.001/R_Knee_IK
+    m_Weight: 0
+  - m_Path: Espina.001/R_Knee_IK/R_Knee_IK_end
+    m_Weight: 1
+  - m_Path: Espina.001/R_Shoulder
+    m_Weight: 1
+  - m_Path: Espina.001/R_Shoulder/R_Forearm
+    m_Weight: 1
+  - m_Path: Espina.001/R_Shoulder/R_Forearm/R_Hand
+    m_Weight: 1
+  - m_Path: Espina.001/R_Shoulder/R_Forearm/R_Hand/R_Fingers
+    m_Weight: 1
+  - m_Path: Espina.001/R_Shoulder/R_Forearm/R_Hand/R_Fingers/R_Fingers_end
+    m_Weight: 1
+  - m_Path: Espina.001/R_Shoulder/R_Forearm/R_Thumb_base
+    m_Weight: 1
+  - m_Path: Espina.001/R_Shoulder/R_Forearm/R_Thumb_base/R_Thumb_1
+    m_Weight: 1
+  - m_Path: Espina.001/R_Shoulder/R_Forearm/R_Thumb_base/R_Thumb_1/R_Thumb_1_end
+    m_Weight: 1
+  - m_Path: Espina.001/R_Shoulder_IK
+    m_Weight: 1
+  - m_Path: Espina.001/R_Shoulder_IK/R_Shoulder_IK_end
+    m_Weight: 1
+  - m_Path: Espina.001/R_Shoulder_Rotation_IK
+    m_Weight: 1
+  - m_Path: Espina.001/R_Shoulder_Rotation_IK/R_Shoulder_Rotation_IK_end
+    m_Weight: 1
+  - m_Path: Espina.001/R_Thig
+    m_Weight: 0
+  - m_Path: Espina.001/R_Thig/R_Leg
+    m_Weight: 1
+  - m_Path: Espina.001/R_Thig/R_Leg/R_Leg_end
+    m_Weight: 1
+  - m_Path: Espina.001/R_Thig_IK
+    m_Weight: 0
+  - m_Path: Espina.001/R_Thig_IK/R_Thig_IK_end
+    m_Weight: 1
+  - m_Path: Espina.001/Stomach
+    m_Weight: 0
+  - m_Path: Espina.001/Stomach/Stomach_end
+    m_Weight: 1
+  - m_Path: Tanuki.001
+    m_Weight: 1

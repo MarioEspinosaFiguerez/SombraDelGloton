@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5477335270711228259
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1592412948547665572}
+  - component: {fileID: 1334606277735762570}
+  - component: {fileID: 6024084745324375297}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1592412948547665572
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5477335270711228259}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.962499, y: -4.6295805, z: 12.471097}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1334606277735762570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5477335270711228259}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8514e93c724116a4aa4d5a3e54c22e9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerLife: {fileID: 0}
+  currentPlayerLife: 0
+  lifeBeforeSceneChanged: 0
+  currentEnemyLife: 0
+  hungryDecayAmount: 1
+  hungryDecayRate: 1
+--- !u!114 &6024084745324375297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5477335270711228259}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5615034e7df9324ca72ad34ab82e09e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  listFoodValues:
+  - food: {fileID: 156589261789044699, guid: 7432e9967d2c9f7499720243ec739cf7, type: 3}
+    recoverValue: 10
+  - food: {fileID: 5820990081616192629, guid: 274bb13a0ca8ce140a3350db37487004, type: 3}
+    recoverValue: 15
+  - food: {fileID: 5946550363555320848, guid: 8149ec03633aabe48a24dc0acdb08dfa, type: 3}
+    recoverValue: 20
+  - food: {fileID: 4376954965995830334, guid: 8b9636963eaacf7489bd7fe17f991fbb, type: 3}
+    recoverValue: 25
+  - food: {fileID: 7747509009953218462, guid: dac92d689cbfbc54da18a538c8e8c8f1, type: 3}
+    recoverValue: 50

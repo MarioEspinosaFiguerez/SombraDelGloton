@@ -1,7 +1,12 @@
 # Sombra del Glotón
 ![Unity Version](https://img.shields.io/badge/Unity-2022.3.49f1-007ACC?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Visual%20Studio-5C2D91?logo=c-sharp&logoColor=white)
+![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Open to Questions](https://img.shields.io/badge/Open_to_Questions_-_Developer-brightgreen)
 [![Demo](https://img.shields.io/badge/Demo-Play%20Now-blue?logo=itch.io)](https://mario-espinosa.itch.io/sombra-del-gloton)
+
+
+📧 Contacto / Contact: [marioespinosafiguerez@gmail.com](mailto:marioespinosafiguerez@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mario-espinosa-figuerez/)
 <br>
 
 ---
@@ -9,6 +14,8 @@
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" alt="ES" width="20" height="15"> Acerca de 
 
 📌 **Sombra del Glotón** es un videojuego desarrollado de forma colaborativa por toda la clase como parte del apartado 3D del **Curso de Especialización en Desarrollo de Videojuegos y Realidad Virtual**.
+
+⚠️ **Nota:** El juego está disponible únicamente en español por el momento.
 
 ## 🚀 Cómo ejecutar el juego en Unity
 
@@ -19,7 +26,7 @@
 2. **Abre el proyecto con Unity Hub**
 ```
     Selecciona la carpeta del proyecto desde Unity Hub.
-    Una vez abierto el proyecto, abre la escena de 'Intro' y dale al play.
+    Una vez abierto el proyecto, abre la escena de 'Intro' y pulsa ▶️ Play.
 ```
 
 ## 🎮 Prueba la demo
@@ -65,6 +72,8 @@ No está permitido su uso comercial ni la distribución sin permiso explícito d
 # <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="EN" width="20" height="15"> About
 
 📌 Shadow of the Glutton is a video game collaboratively developed by the entire class as part of the 3D section of the Specialization Course in Video Game Development and Virtual Reality.
+
+⚠️ **Note:** The game is currently available only in Spanish.
 
 ## 🚀 How to run the Game in Unity
 1. **Clone the repository**
